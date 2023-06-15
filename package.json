@@ -1,0 +1,19 @@
+{
+  "name": "graphql-to-elm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "ramda": "^0.29.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
